@@ -1,0 +1,39 @@
+_repo: Shakespeare-s-play-of-the-Merchant-of-Venice--13-Arranged-for-Representation-at-the-Princess-__12578
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+  editor:
+    agent_name: Kean, Charles John
+    deathdate: 1868
+    gutenberg_agent_id: '4539'
+    url: http://www.gutenberg.org/2009/agents/4539
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kean
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Italy -- Drama'
+- !lcsh 'Venice (Italy) -- Drama'
+- !lcsh 'Comedies'
+- !lcsh 'Moneylenders -- Drama'
+- !lcc 'PR'
+- GITenberg
+title: "Shakespeare's play of the Merchant of Venice\r\nArranged for Representation\
+  \ at the Princess's Theatre, with Historical and Explanatory Notes by Charles Kean,\
+  \ F.S.A."
+url: http://www.gutenberg.org/ebooks/12578
